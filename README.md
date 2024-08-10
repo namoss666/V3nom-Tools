@@ -117,4 +117,4 @@ Linux:
 
 ⏳・Installation:
 download https://github.com/namoss666/V3nom-Tools.git
-any questions ask them on discord.gg/JSbTpqWcwd
+any questions ask them on https://discord.gg/JSbTpqWcwd
