@@ -5,7 +5,7 @@
 <h1>📜・Description:</h1>
 
 <p>
-    All scripts in the "<a href="https://github.com/loxyteck/Redtiger-Tools/tree/main/Settings/Program/FileDetectedByAntivirus">Settings/Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+    All scripts in the folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 
   👨‍💻 -> Developed in <strong>Python</strong>.<br>
   🌍 -> Tool in <strong>English</strong>.<br>
