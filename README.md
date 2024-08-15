@@ -150,7 +150,7 @@
 
 <h1>⏳・Installation:</h1>
 
-<a href="https://github.com/fluzyteck/RedTiger/archive/main.zip">Dowloads Tools Here</a>
+<a href="soon">Dowloads Tools Here</a>
 
 <p>
   
