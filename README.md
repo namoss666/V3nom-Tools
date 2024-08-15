@@ -171,8 +171,8 @@ Or
 <h2>🔗・Credits:</h2>
 
 <p>
-  - <a href="https://discord.gg/V3nomtools">Discord</a><br>
-  - <a href="https://V3nom.shop">Website</a><br>
+  - <a href="https://discord.gg/7dGkGsxrnk">Discord</a><br>
+  - <a href="https://namoss666.github.io/website/">Website</a><br>
   - Creator: Namoss and Azuu<br>
   - Version: 5.8
 </p>
