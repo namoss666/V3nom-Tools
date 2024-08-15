@@ -166,5 +166,5 @@ Or
   - <a href="https://discord.gg/7dGkGsxrnk">Discord</a><br>
   - <a href="https://namoss666.github.io/website/">Website</a><br>
   - Creator: Namoss and Azuu<br>
-  - Version: 5.8
+  - Version: 1.2
 </p>
