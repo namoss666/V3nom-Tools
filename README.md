@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/github/stars/fluzyteck/RedTiger-tools?style=flat&label=Stars&color=a80505">
-  <img src="https://img.shields.io/github/repo-size/fluzyteck/RedTiger-Tools?label=Size&color=a80505">
-  <img src="https://img.shields.io/github/languages/top/fluzyteck/RedTiger-Tools?color=a80505">
-</p>
-
 <p>
   <h3 align="center">⭐ Don't forget to set the repository to "Star" ⭐</h3>
 </p>
@@ -11,7 +5,7 @@
 <h1>📜・Description:</h1>
 
 <p>
-    All scripts in the "<a href="https://github.com/loxyteck/RedTiger-Tools/tree/main/Settings/Program/FileDetectedByAntivirus">Settings/Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+    All scripts in the "<a href="https://github.com/loxyteck/V3nom-Tools/tree/main/Settings/Program/FileDetectedByAntivirus">Settings/Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 
   👨‍💻 -> Developed in <strong>Python</strong>.<br>
   🌍 -> Tool in <strong>English</strong>.<br>
@@ -25,16 +19,16 @@
 <h1>⭐・Features:</h1>
 
 <p align="center">
-  <img src="Img/RedTiger.png" width="400px"> 
-  <img src="Img/RedTiger-2.png" width="400px"> 
-  <img src="Img/RedTiger-3.png" width="400px"> 
+  <img src="Img/V3nom.png" width="400px"> 
+  <img src="Img/V3nom-2.png" width="400px"> 
+  <img src="Img/V3nom-3.png" width="400px"> 
   <img src="Img/Builder.png" width="400px">
 </p>
 
 <h1>⚙️・Functions:</h1>
 
 ```
-┌── ⚒️ - RedTiger-Tools
+┌── ⚒️ - V3nom-Tools
 │   ├── Info
 │   └── Site
 │
@@ -162,8 +156,8 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxyteck/RedTiger-Tools.git"
-3 - Write "cd RedTiger-Tools"
+2 - Write "git clone https://github.com/loxyteck/V3nom-Tools.git"
+3 - Write "cd V3nom-Tools"
 4 - Write "python Setup.py"
 ```
 </p>
@@ -171,14 +165,14 @@ Or
 <h1>⚠️・Terms of use:</h1>
 
 <p>
-  RedTiger has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use RedTiger, you acknowledge and accept full responsibility     for any consequences that may result from your actions.
+  V3nom has been developed solely for educational purposes. This project has been created with good intentions and is intended for personal use only. By choosing to use V3nom, you acknowledge and accept full responsibility     for any consequences that may result from your actions.
 </p>
 
 <h2>🔗・Credits:</h2>
 
 <p>
-  - <a href="https://discord.gg/redtigertools">Discord</a><br>
-  - <a href="https://redtiger.shop">Website</a><br>
-  - Creator: Loxyteck<br>
+  - <a href="https://discord.gg/V3nomtools">Discord</a><br>
+  - <a href="https://V3nom.shop">Website</a><br>
+  - Creator: Namoss and Azuu<br>
   - Version: 5.8
 </p>
