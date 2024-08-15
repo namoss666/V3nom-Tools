@@ -17,14 +17,6 @@
 </p>
 
 <h1>⭐・Features:</h1>
-
-<p align="center">
-  <img src="Img/V3nom.png" width="400px"> 
-  <img src="Img/V3nom-2.png" width="400px"> 
-  <img src="Img/V3nom-3.png" width="400px"> 
-  <img src="Img/Builder.png" width="400px">
-</p>
-
 <h1>⚙️・Functions:</h1>
 
 ```
